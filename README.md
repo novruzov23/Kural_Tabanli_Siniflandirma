@@ -30,15 +30,15 @@ AGE – Customer's age
 
 Task 1: Answer the Questions Below
 Question 1: Read the persona.csv file and show general information about the data set.
-§ Question 2: How many unique SOURCE are there? What are their frequencies?
-§ Question 3: How many unique PRICEs are there?
-§ Question 4: How many sales were made from which PRICE?
-§ Question 5: How many sales were made from which country?
-§ Question 6: How much was earned from sales in total by country?
-§ Question 7: What are the sales numbers according to SOURCE types?
-§ Question 8: What are the PRICE averages by country?
-§ Question 9: What are the PRICE averages according to SOURCEs?
-§ Question 10: What are the PRICE averages in the COUNTRY-SOURCE breakdown?
+Question 2: How many unique SOURCE are there? What are their frequencies?
+Question 3: How many unique PRICEs are there?
+Question 4: How many sales were made from which PRICE?
+Question 5: How many sales were made from which country?
+Question 6: How much was earned from sales in total by country?
+Question 7: What are the sales numbers according to SOURCE types?
+Question 8: What are the PRICE averages by country?
+Question 9: What are the PRICE averages according to SOURCEs?
+Question 10: What are the PRICE averages in the COUNTRY-SOURCE breakdown?
 
 Task 2: What are the average earnings in the COUNTRY, SOURCE, SEX, AGE breakdown?
 
